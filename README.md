@@ -1,2 +1,0 @@
-# wabbyyabby
-wabbyyabby blog structure
